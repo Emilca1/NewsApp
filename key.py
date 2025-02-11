@@ -1,0 +1,1 @@
+apiKey = 'your apikey' #Can be get from https://newsapi.org/register
